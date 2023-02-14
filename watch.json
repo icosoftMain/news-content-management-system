@@ -1,0 +1,15 @@
+[
+    {
+        "app_name"  : "ILAPI GHANA",
+        "app_key"   : "83a507066572f1",
+        "app_logo"  : "",
+        "page_404"  : "404"
+    },
+    {
+        "router_search_type": "-r",
+        "security": {
+            "ssl": false 
+        }
+    }
+]
+

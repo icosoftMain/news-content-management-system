@@ -1,0 +1,14 @@
+[
+    {
+        "id"   : "default",
+        "name" : "Default"
+    },
+    {
+        "id"   : "ajoet",
+        "name" : "AJOET"
+    },
+    {
+        "id"   : "internship",
+        "name" : "Internship"
+    }
+]

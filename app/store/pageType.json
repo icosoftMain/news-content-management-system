@@ -1,0 +1,30 @@
+[
+    {
+        "id"   : "default",
+        "name" : "Default"
+    },
+    {
+        "id"   : "featured",
+        "name" : "Featured"
+    },
+    {
+        "id"   : "sponsored",
+        "name" : "Sponsored"
+    },
+    {
+        "id"   : "promoted",
+        "name" : "Promoted"
+    },
+    {
+        "id"   : "breaking",
+        "name" : "Breaking"
+    },
+    {
+        "id"   : "trending",
+        "name" : "Trending"
+    },
+    {
+        "id"   : "editorspick",
+        "name" : "Editor's Pick"
+    }
+]
